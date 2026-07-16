@@ -29,7 +29,7 @@ Offline forestry platform
 
 📷 Screenshot
 
-<img src="assets/project-picklen.png" width="900">
+<img src="assets/project-pickle.png" width="900">
 
 --------------------------------------------
 
