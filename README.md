@@ -6,7 +6,6 @@ Forester | AI Workflow Developer | GIS Professional
 13+ years modernizing forestry operations with AI,
 automation, GIS, and custom software.
 
-https://www.linkedin.com/in/lacroixchristopher/ clacroix0@gmail.com
 ----------------------------------------------------
 
 Featured Projects
