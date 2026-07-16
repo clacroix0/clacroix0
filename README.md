@@ -16,19 +16,20 @@ Featured Projects
 Plot Weasel
 Offline forestry platform
 
-[Repository]
+<img src="assets/plot-weasel-desktop.png" width="900">
+<img src="assets/plot-weasel-fieldlogger.png" width="900">
 
 --------------------------------------------
 
 📷 Screenshot
 
-CFI DataClean
+<img src="assets/cfi-dataclean.png" width="900">
 
 --------------------------------------------
 
 📷 Screenshot
 
-Project Pickle
+<img src="assets/project-picklen.png" width="900">
 
 --------------------------------------------
 
