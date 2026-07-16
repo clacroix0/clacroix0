@@ -1,16 +1,37 @@
-## Hi there 👋
+----------------------------------------------------
+Chris LaCroix
 
-<!--
-**clacroix0/clacroix0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Forester | AI Workflow Developer | GIS Professional
 
-Here are some ideas to get you started:
+13+ years modernizing forestry operations with AI,
+automation, GIS, and custom software.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[LinkedIn] [Email]
+----------------------------------------------------
+
+Featured Projects
+
+📷 Screenshot
+
+Plot Weasel
+Offline forestry platform
+
+[Repository]
+
+--------------------------------------------
+
+📷 Screenshot
+
+CFI DataClean
+
+--------------------------------------------
+
+📷 Screenshot
+
+Project Pickle
+
+--------------------------------------------
+
+Skills
+
+AI • GIS • Forestry • Azure OpenAI • PowerShell • JavaScript
